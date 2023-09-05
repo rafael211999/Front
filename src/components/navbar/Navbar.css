@@ -1,0 +1,23 @@
+.Container{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    color: #fff;
+    margin: 0 0 0 0;
+}
+.Logo{
+    margin: 15px 0 15px 2%;
+    align-items: center;
+    justify-content: center;
+    text-align: centerx;
+
+}
+.Navbar{
+    display: flex;
+    flex: 1;
+    justify-content: right;
+}
+
+.filhos{
+    padding: 15px 5%  15px 0;
+}
